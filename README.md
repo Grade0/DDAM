@@ -33,7 +33,7 @@
 
 #### eCommerce behavior data from multi-category store
 
-The dataset contains behavior data for 1 month (March 2020) from a large multi-category online store.
+The dataset taken into account contains behavior data for only 1 month (March 2020) from a large multi-category online store.
 
 Each row in the file represents an event. All events are related to products and users. Each event is like many-to-many relations between products and users.
 
