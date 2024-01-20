@@ -11,7 +11,7 @@
   <h3 align="center">eCommerce behavior Dataset</h3>
 
   <p align="center">
-    End of Course Project A.Y. 2022/23
+    End of Course Project A.Y. 2023/24
     <br />
     <a href="https://github.com/Grade0/DDAM/blob/main/DDAM_report.pdf"><strong>Read the report »</strong></a>
     <br />
