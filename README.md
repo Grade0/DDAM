@@ -50,4 +50,3 @@ The project is divided into four parts as follows:
 - Understanding & Preparation
 - Features Extraction
 - Classification
-- Pattern mining
