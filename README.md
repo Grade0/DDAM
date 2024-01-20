@@ -18,8 +18,6 @@
     <br />
     <a href="https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data">Data source</a>
     ·
-    <a href="https://github.com/Grade0/DDAM/blob/main/data/2020-Mar.csv">Explore file csv</a>
-    ·
     <a href="https://github.com/Grade0/DDAM/tree/main/python%20analysis">View code</a>
   </p>
 </p>
