@@ -42,8 +42,6 @@ User **user_id** during session **user_session** added to shopping cart (propert
 
 ## About the project
 
-This project consists of analyzing the problem of forecasting high seismic bumps in a coal mine with data mining tools. 
-
 This project consists of analyzing a large amount of eCommerce data in order to predict the users' behavior with data mining and Hadoop (Spark) tools. 
 
 The project is divided into four parts as follows: 
